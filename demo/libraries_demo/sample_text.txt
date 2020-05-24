@@ -1,0 +1,19 @@
+24Apr
+#
+- COntacts.txt contains ..(Name,Mobileno) in every line
+- ignore the lines where mobile number is not present
+- ignore the invalid entries;
+- Mobile numeber validation[10 digits, ]
+
+# - marks_list.py
+- what if the marks are not in the right format?
+- ignore blank/invalid marks and proceed;
+
+# dept names
+
+
+#
+- accept the filename from the user
+ and remove all the blank lines
+
+#  
